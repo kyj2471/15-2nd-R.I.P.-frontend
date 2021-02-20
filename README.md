@@ -125,7 +125,7 @@ _-_ **MainPage onClick**
 - Position : Front-end
 - Stack : React / Styled-Component / Router
 - Works :
-- 프로젝트 후기 블로그 : [후기] (https://velog.io/@kyj2471/2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EB%A7%88%EC%B9%98%EB%A9%B0)
+- 프로젝트 후기 블로그 : [후기](https://velog.io/@kyj2471/2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EB%A7%88%EC%B9%98%EB%A9%B0)
 
 
 [로그인 / 회원가입 페이지]
